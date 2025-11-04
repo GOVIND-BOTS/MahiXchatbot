@@ -102,3 +102,17 @@ License: MIT
 💥 “Style, Speed, and Smartness — That’s Mahi by Govind.” 💥
 
 <p align="center"> <img src="https://img.shields.io/badge/Powered%20By-Govind%20Suryavanshi-orange?style=for-the-badge" /> </p> ```
+
+### 🚀 One-Click Deploy
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
+
+---
+
+### 👑 Contact Owner
+
+[![Contact Owner on Telegram](https://img.shields.io/badge/Contact%20Owner-GovindOfficialMP-blue?style=for-the-badge&logo=telegram)](https://t.me/govind_official_mp13)
+
+ 
