@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=👨‍💻+Hey%2C+I'm+Govind!;🚀+Full-Stack+Bot+Developer;🎧+Creator+of+AppleMusic+and+many+AI+Bots;💡+Building+Bots+that+Think+Like+Humans;🔥+Dream%3A+To+Automate+Everything;❤️+Code.+Create.+Conquer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=👨‍💻+Hey%2C+I'm+Govind!;🚀+Full-Stack+Bot+Developer;🎧+Creator+of+MAHI CHATBOT+and+many+AI+Bots;💡+Building+Bots+that+Think+Like+Humans;🔥+Dream%3A+To+Automate+Everything;❤️+Code.+Create.+Conquer.">
 </h2>
 
 
